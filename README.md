@@ -6,3 +6,4 @@ Repository ini digunakan untuk sayembara pencarian vounter untuk pembuatan aplik
 
 Berikut daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* konyamxx, [www.change.id](https://www.chnage.id).
